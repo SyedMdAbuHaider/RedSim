@@ -167,8 +167,7 @@ We welcome contributions from security professionals:
 Apache 2.0 - See [LICENSE](LICENSE) for details.
 
 ## Contact
-**Security Team**: security@yourorg.com  
-**Project Lead**: Syed Md. Abu Haider  
+**Project Lead**: Syed. Md. Abu Haider  
 **LinkedIn**: [linkedin.com/in/syed-md-abu-haider](https://www.linkedin.com/in/syed-md-abu-haider)
 ```
 
